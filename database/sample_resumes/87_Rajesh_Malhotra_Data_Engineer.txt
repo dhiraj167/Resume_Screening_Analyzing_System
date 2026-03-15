@@ -1,0 +1,54 @@
+RAJESH MALHOTRA
+Data Engineer
+Email: rajesh.malhotra723@email.com | Phone: +91-9774736201
+LinkedIn: linkedin.com/in/rajeshmalhotra | GitHub: github.com/rajeshmalhotra
+Location: Pune, Maharashtra, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Data Engineer with 11 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at HCL and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Postman, Problem Solving, AWS, Hadoop, Snowflake, SQL, Python, Airflow, Agile
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Data Engineer | HCL, Pune
+Jan 2020 – Present
+- Led the development and deployment of key features using Postman and Problem Solving.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Data Engineer | Previous Company, Pune
+Jun 2013 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using AWS.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2012 | CGPA: 8.5/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Postman to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Data Engineer (2022)
+- Advanced Training in Postman

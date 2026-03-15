@@ -1,0 +1,54 @@
+RAHUL QURESHI
+Junior Full Stack Developer
+Email: rahul.qureshi928@email.com | Phone: +91-9700062274
+LinkedIn: linkedin.com/in/rahulqureshi | GitHub: github.com/rahulqureshi
+Location: Mumbai, Maharashtra, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Junior Full Stack Developer with 9 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Google and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Python, JavaScript, Problem Solving, AWS, Django, React, Node.js, Express, MongoDB, Postman, Agile
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Junior Full Stack Developer | Google, Mumbai
+Jan 2020 – Present
+- Led the development and deployment of key features using Python and JavaScript.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Full Stack Developer | Previous Company, Mumbai
+Jun 2015 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Problem Solving.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2014 | CGPA: 7.3/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Python to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Full Stack Developer (2022)
+- Advanced Training in Python

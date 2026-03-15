@@ -1,0 +1,54 @@
+Mayur Panchal
+Senior Machine Learning Engineer
+Email: panchalmayur2005@gmail.com | Phone: +91-9145189765
+LinkedIn: linkedin.com/in/eshamehta | GitHub: github.com/eshamehta
+Location: Chennai, Tamil Nadu, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Senior Machine Learning Engineer with 10 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Wipro and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: PyTorch, TensorFlow, Python, Deep Learning, Jira, Computer Vision, NLP, Postman, C++
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior Machine Learning Engineer | Wipro, Chennai
+Jan 2020 – Present
+- Led the development and deployment of key features using PyTorch and TensorFlow.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Machine Learning Engineer | Previous Company, Chennai
+Jun 2014 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Python.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2013 | CGPA: 9.0/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging PyTorch to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Machine Learning Engineer (2022)
+- Advanced Training in PyTorch

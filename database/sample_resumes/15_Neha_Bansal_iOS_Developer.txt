@@ -1,0 +1,71 @@
+NEHA BANSAL
+iOS Developer (Swift)
+Email: neha.bansal@email.com | Phone: +91-9654321789
+LinkedIn: linkedin.com/in/nehabansal | GitHub: github.com/nehabansal
+Location: Bengaluru, Karnataka, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+iOS Developer with 3 years of experience crafting high-quality Swift
+applications for iPhone and iPad. Proficient in UIKit, SwiftUI, and Combine.
+Strong understanding of Apple Human Interface Guidelines, App Store
+optimization, and app performance profiling. Published apps with combined
+1.5M+ downloads on the App Store.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Languages        : Swift, Objective-C, Python
+iOS Frameworks   : SwiftUI, UIKit, Combine, CoreData, CoreLocation, ARKit,
+                   AVFoundation, StoreKit, UserNotifications
+Architecture     : MVVM, MVP, Clean Architecture, Coordinator Pattern
+Networking       : URLSession, Alamofire, Codable, WebSockets
+Tools            : Xcode, Instruments, TestFlight, Fastlane, XCTest
+Backend          : Firebase, REST APIs, GraphQL, CloudKit
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+iOS Developer | Dream11, Bengaluru
+October 2022 – Present
+- Built live sports scoring feature using WebSockets serving 8M+ concurrent
+  users during IPL finals with < 500ms update latency.
+- Migrated 40% of UIKit screens to SwiftUI, reducing code by 30% and
+  improving UI development velocity.
+- Implemented in-app purchase flows using StoreKit 2 for premium subscription
+  features generating ₹5 Cr/month.
+- Used Instruments and MetricKit to reduce app launch time by 35% and memory
+  footprint by 20%.
+
+Junior iOS Developer | ShareChat, Bengaluru
+July 2021 – September 2022
+- Developed camera and AR filters feature using AVFoundation and CoreImage.
+- Built offline content playback using CoreData + AVCacheAssetDownloadTask.
+- Fixed 100+ crash reports improving app stability to 99.3%.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech Electronics and Computer Engineering
+PES University, Bengaluru
+Graduated: 2021 | CGPA: 8.5/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+MindSpace – Mental Wellness App (App Store: 100K+ downloads)
+- SwiftUI app with mood tracking, guided meditation (AVAudioPlayer),
+  journaling, and HealthKit integration for mindfulness streaks.
+- Featured in "App Store Best New Apps" (India regional, 2023).
+
+ARFurnish – AR Furniture Placement App
+- ARKit + RealityKit app for previewing furniture in real rooms.
+- Integrated with IKEA 3D model catalog via REST API.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Apple Developer Academy Graduate (2021)
+- iOS 16 Development Bootcamp – Udemy (2022)
+- Swift Concurrency & Structured Concurrency – WWDC Certification (2022)

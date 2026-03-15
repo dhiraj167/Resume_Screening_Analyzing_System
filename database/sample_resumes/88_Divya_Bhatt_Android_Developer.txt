@@ -1,0 +1,54 @@
+DIVYA BHATT
+Junior Android Developer
+Email: divya.bhatt276@email.com | Phone: +91-9655490835
+LinkedIn: linkedin.com/in/divyabhatt | GitHub: github.com/divyabhatt
+Location: Pune, Maharashtra, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Junior Android Developer with 4 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Tech Mahindra and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Java, Kotlin, Problem Solving, Firebase, Android Studio, Mobile Development, Jetpack Compose
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Junior Android Developer | Tech Mahindra, Pune
+Jan 2020 – Present
+- Led the development and deployment of key features using Java and Kotlin.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Android Developer | Previous Company, Pune
+Jun 2020 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Problem Solving.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2019 | CGPA: 7.8/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Java to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Android Developer (2022)
+- Advanced Training in Java

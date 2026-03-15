@@ -1,0 +1,54 @@
+SURESH DESAI
+QA Automation Engineer
+Email: suresh.desai185@email.com | Phone: +91-9945099145
+LinkedIn: linkedin.com/in/sureshdesai | GitHub: github.com/sureshdesai
+Location: Delhi, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled QA Automation Engineer with 1 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Wipro and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Selenium, Java, Agile, Test Automation, Python, JIRA
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+QA Automation Engineer | Wipro, Delhi
+Jan 2023 – Present
+- Led the development and deployment of key features using Selenium and Java.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+QA Automation Engineer | Previous Company, Delhi
+Jun 2023 - Dec 2022
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Agile.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2022 | CGPA: 9.6/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Selenium to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in QA Automation Engineer (2022)
+- Advanced Training in Selenium

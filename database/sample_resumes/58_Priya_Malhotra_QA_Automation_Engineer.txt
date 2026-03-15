@@ -1,0 +1,54 @@
+PRIYA MALHOTRA
+Lead QA Automation Engineer
+Email: priya.malhotra8@email.com | Phone: +91-9564861802
+LinkedIn: linkedin.com/in/priyamalhotra | GitHub: github.com/priyamalhotra
+Location: Delhi, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead QA Automation Engineer with 2 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Wipro and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: JIRA, Cypress, Appium, Problem Solving, Test Automation, Selenium, Python, Postman, Agile
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead QA Automation Engineer | Wipro, Delhi
+Jan 2022 – Present
+- Led the development and deployment of key features using JIRA and Cypress.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+QA Automation Engineer | Previous Company, Delhi
+Jun 2022 - Dec 2021
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Appium.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2021 | CGPA: 8.4/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging JIRA to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in QA Automation Engineer (2022)
+- Advanced Training in JIRA

@@ -1,0 +1,75 @@
+ARJUN SHARMA
+Software Engineer
+Email: arjun.sharma@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma
+Location: Bengaluru, Karnataka, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Results-driven Software Engineer with 4 years of experience in full-stack
+web development. Proficient in Python, Django, React, and cloud platforms.
+Strong background in designing scalable REST APIs and microservices. Passionate
+about clean code, test-driven development, and continuous integration.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Languages      : Python, JavaScript, TypeScript, Java, SQL
+Frameworks     : Django, React, Node.js, Express.js, Spring Boot
+Databases      : PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps : AWS (EC2, S3, Lambda), Docker, Kubernetes, GitHub Actions
+Tools          : Git, Postman, JIRA, VS Code, Linux
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Software Engineer | Infosys Ltd., Bengaluru
+June 2021 – Present
+- Developed and maintained RESTful APIs using Django REST Framework serving
+  1M+ requests per day.
+- Built responsive frontend interfaces with React.js and Redux for enterprise
+  clients.
+- Reduced API response time by 40% through database query optimization and
+  Redis caching.
+- Implemented CI/CD pipelines using GitHub Actions and Docker for automated
+  testing and deployment.
+- Collaborated in Agile sprints, participating in daily standups, code reviews,
+  and sprint planning.
+
+Junior Software Developer | TCS, Hyderabad
+July 2020 – May 2021
+- Developed internal tools using Python Flask and MySQL.
+- Assisted in migrating legacy Java applications to microservices architecture.
+- Wrote unit tests using pytest, achieving 85% code coverage.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.E. Computer Science and Engineering
+Visvesvaraya Technological University, Bengaluru
+Graduated: 2020 | CGPA: 8.7/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+E-Commerce Platform (Django + React)
+- Built a full-stack e-commerce app with JWT authentication, payment gateway
+  integration (Razorpay), and real-time order tracking.
+- Deployed on AWS EC2 with Nginx and Gunicorn.
+
+Real-Time Chat App (Node.js + Socket.IO)
+- Created a real-time messaging app supporting 500+ concurrent users.
+- Used Redis Pub/Sub for message distribution across multiple server nodes.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- AWS Certified Solutions Architect – Associate (2023)
+- Python for Data Science – Coursera (2021)
+
+-------------------------------------------------------------------
+ACHIEVEMENTS
+-------------------------------------------------------------------
+- Employee of the Quarter, Infosys – Q3 2022
+- Winner, Internal Hackathon – "Smart City Solutions", TCS 2021

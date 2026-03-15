@@ -1,0 +1,54 @@
+SUNITA RASTOGI
+Senior Data Engineer
+Email: sunita.rastogi605@email.com | Phone: +91-9151887622
+LinkedIn: linkedin.com/in/sunitarastogi | GitHub: github.com/sunitarastogi
+Location: Noida, Uttar Pradesh, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Senior Data Engineer with 5 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Capgemini and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Python, Git, ETL, Airflow, AWS, Hadoop, Jira
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior Data Engineer | Capgemini, Noida
+Jan 2020 – Present
+- Led the development and deployment of key features using Python and Git.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Data Engineer | Previous Company, Noida
+Jun 2019 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using ETL.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2018 | CGPA: 7.7/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Python to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Data Engineer (2022)
+- Advanced Training in Python

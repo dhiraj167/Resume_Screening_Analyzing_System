@@ -1,0 +1,69 @@
+DEEPA MENON
+Data Engineer
+Email: deepa.menon@email.com | Phone: +91-9944123789
+LinkedIn: linkedin.com/in/deepamenon | GitHub: github.com/deepamenon
+Location: Bengaluru, Karnataka, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Data Engineer with 4 years of experience designing and building large-scale
+data pipelines, data warehouses, and real-time streaming platforms. Expert in
+Apache Spark, dbt, Airflow, and cloud data platforms (Snowflake, BigQuery,
+AWS Redshift). Passionate about data quality, data governance, and enabling
+data-driven decision making across organizations.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Languages         : Python, SQL, Scala, Bash
+Big Data          : Apache Spark, Kafka, Flink, Hadoop, Hive
+Orchestration     : Apache Airflow, Prefect, Dagster
+Data Warehousing  : Snowflake, BigQuery, AWS Redshift, dbt
+Cloud             : AWS (Glue, EMR, S3, Redshift), GCP (Dataflow, BigQuery)
+Data Quality      : Great Expectations, dbt Tests, Apache Atlas
+Databases         : PostgreSQL, MySQL, Cassandra, MongoDB
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Data Engineer | Myntra, Bengaluru
+June 2021 – Present
+- Built real-time inventory data pipeline using Kafka + Spark Streaming
+  processing 5M events/hour with end-to-end latency < 30 seconds.
+- Designed and implemented data warehouse on Snowflake, reducing BI query
+  time from hours to seconds for 200+ analysts.
+- Built dbt models for 50+ business KPIs with automated data quality tests.
+- Migrated legacy Hadoop-based batch pipelines to modern Spark + Airflow
+  stack, reducing processing time by 70%.
+
+Junior Data Engineer | Cognizant, Bengaluru
+July 2020 – May 2021
+- Developed ETL pipelines using Python and AWS Glue for retail clients.
+- Built automated data validation framework catching 95% of data quality issues.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech Information Technology
+Kerala Technological University
+Graduated: 2020 | CGPA: 8.9/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Real-Time Analytics Platform
+- Built end-to-end streaming analytics platform using Kafka + Flink + ClickHouse
+  enabling sub-second analytics on 100M+ daily events.
+
+Data Lineage Tracker
+- Developed open-source tool for tracking data lineage across dbt models
+  and Airflow DAGs with visual graph UI (GitHub: 800+ stars).
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Databricks Certified Data Engineer Associate (2022)
+- AWS Certified Data Analytics – Specialty (2022)
+- dbt Analytics Engineer Certification (2023)
+- Google Professional Data Engineer (2021)

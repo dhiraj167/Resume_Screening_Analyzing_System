@@ -1,0 +1,70 @@
+ADITYA KUMAR
+Full Stack Developer (MERN)
+Email: aditya.kumar@email.com | Phone: +91-9807654321
+LinkedIn: linkedin.com/in/adityakumar | GitHub: github.com/adityakumar
+Location: Kolkata, West Bengal, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Full Stack Developer with 3 years of experience building end-to-end web
+applications using the MERN stack (MongoDB, Express.js, React, Node.js).
+Comfortable working across all layers of the stack from database schema
+design to pixel-perfect UI implementation. Strong believer in writing
+maintainable, well-documented code.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Frontend         : React.js, Next.js, TypeScript, Redux Toolkit, Zustand,
+                   TailwindCSS, Material UI, Framer Motion
+Backend          : Node.js, Express.js, Fastify, GraphQL (Apollo Server)
+Databases        : MongoDB, PostgreSQL, MySQL, Redis, Firebase Firestore
+Authentication   : JWT, OAuth2, Passport.js, NextAuth.js
+DevOps           : Docker, Vercel, Netlify, AWS (EC2, S3), GitHub Actions
+Testing          : Jest, React Testing Library, Supertest, Cypress
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Full Stack Developer | Razorpay (Contract), Kolkata
+February 2023 – Present
+- Built a real-time admin analytics dashboard using Next.js 14 + Chart.js,
+  displaying live transaction data for 10,000+ merchants.
+- Developed RESTful APIs using Node.js/Express for payment reconciliation
+  workflows with 99.9% uptime.
+- Implemented server-side rendering (SSR) improving page load time by 45%
+  and SEO rankings.
+
+MERN Stack Developer | Startup (UrbanClap Clone), Kolkata
+December 2021 – January 2023
+- Built a home services marketplace with real-time booking, chat (Socket.IO),
+  location-based service provider matching, and Stripe payment integration.
+- Designed MongoDB schema with geospatial indexes for location queries.
+- Achieved 50ms average API response time at 1,000 concurrent users.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech Computer Science
+MAKAUT, Kolkata
+Graduated: 2021 | CGPA: 8.3/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+SocialBoard – Social Media App
+- Real-time social platform built with MERN + Socket.IO supporting posts,
+  stories, direct messaging, and live notifications. Deployed on AWS EC2
+  with Nginx reverse proxy. (GitHub: 200+ stars)
+
+DevConnect – Developer Portfolio Platform
+- Next.js platform for developers to create shareable portfolios with
+  GitHub stats integration, live project previews, and tech stack display.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Meta Full-Stack Engineer Certificate – Coursera (2022)
+- MongoDB Developer Certification (2022)
+- Node.js Application Developer – OpenJS Foundation (2023)

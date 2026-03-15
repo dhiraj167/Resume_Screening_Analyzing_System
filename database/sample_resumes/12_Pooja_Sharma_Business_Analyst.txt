@@ -1,0 +1,63 @@
+POOJA SHARMA
+Business Analyst
+Email: pooja.sharma@email.com | Phone: +91-9971234567
+LinkedIn: linkedin.com/in/poojasharma
+Location: Gurgaon, Haryana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Business Analyst with 5 years of experience bridging business needs and
+technology solutions across BFSI and e-commerce sectors. Skilled in
+requirements elicitation, process modelling, stakeholder management, and
+translating complex business problems into actionable technology roadmaps.
+Delivered projects worth ₹25 Cr in business value across 10+ engagements.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Analysis         : Requirements Gathering, BRD/FRD Writing, GAP Analysis,
+                   As-Is/To-Be Process Mapping, SWOT, Cost-Benefit Analysis
+Modelling        : BPMN, UML (Use Case, Sequence), ERD, Flowcharts
+Tools            : JIRA, Confluence, MS Visio, Lucidchart, Tableau, Power BI
+Methodologies    : Agile/Scrum, Waterfall, SAFe, Design Thinking
+Others           : SQL (reporting queries), Excel (Advanced), PowerPoint
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior Business Analyst | HDFC Bank, Gurgaon
+April 2021 – Present
+- Led requirements for Net Banking 2.0 platform serving 15M customers,
+  coordinating with 20+ stakeholders across 8 departments.
+- Reduced loan processing time from 7 days to 1 day by re-engineering
+  the credit approval workflow and system integrations.
+- Created 80+ detailed user stories, acceptance criteria, and wireframes
+  for a new mobile banking feature set.
+- Facilitated JAD sessions, sprint reviews, and stakeholder demos for
+  senior leadership.
+
+Business Analyst | Accenture, Gurgaon
+June 2019 – March 2021
+- Managed requirements for insurance policy management system rollout
+  across 5 states.
+- Performed UAT coordination for 3 major system releases.
+- Built Tableau dashboards for tracking project KPIs.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+MBA – Finance & Strategy
+MDI Gurgaon
+Graduated: 2019 | GPA: 3.7/4.0
+
+B.Com (Hons)
+Lady Shri Ram College, Delhi University
+Graduated: 2017 | CGPA: 9.2/10
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- PMI Professional in Business Analysis (PMI-PBA) – 2022
+- Certified Business Analyst Professional (CBAP) – IIBA – 2021
+- Tableau Desktop Specialist (2020)

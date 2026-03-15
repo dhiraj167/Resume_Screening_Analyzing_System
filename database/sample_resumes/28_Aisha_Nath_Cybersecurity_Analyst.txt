@@ -1,0 +1,54 @@
+AISHA NATH
+Cybersecurity Analyst
+Email: aisha.nath610@email.com | Phone: +91-9817197013
+LinkedIn: linkedin.com/in/aishanath | GitHub: github.com/aishanath
+Location: Hyderabad, Telangana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Cybersecurity Analyst with 11 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Amazon and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Git, SIEM, Penetration Testing, Networking, Python, Security, Postman, Firewalls, Linux
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Cybersecurity Analyst | Amazon, Hyderabad
+Jan 2020 – Present
+- Led the development and deployment of key features using Git and SIEM.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Cybersecurity Analyst | Previous Company, Hyderabad
+Jun 2013 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Penetration Testing.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2012 | CGPA: 8.2/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Git to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Cybersecurity Analyst (2022)
+- Advanced Training in Git

@@ -1,0 +1,54 @@
+JATIN BOSE
+Junior Data Scientist
+Email: jatin.bose504@email.com | Phone: +91-9835340846
+LinkedIn: linkedin.com/in/jatinbose | GitHub: github.com/jatinbose
+Location: Chennai, Tamil Nadu, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Junior Data Scientist with 11 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Accenture and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Problem Solving, Scikit-Learn, TensorFlow, PyTorch, Data Analysis, Python, Pandas, Machine Learning, SQL
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Junior Data Scientist | Accenture, Chennai
+Jan 2020 – Present
+- Led the development and deployment of key features using Problem Solving and Scikit-Learn.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Data Scientist | Previous Company, Chennai
+Jun 2013 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using TensorFlow.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2012 | CGPA: 8.8/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Problem Solving to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Data Scientist (2022)
+- Advanced Training in Problem Solving

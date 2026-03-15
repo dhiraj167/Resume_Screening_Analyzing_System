@@ -1,0 +1,54 @@
+POOJA SHARMA
+Junior Business Analyst
+Email: pooja.sharma293@email.com | Phone: +91-9294612695
+LinkedIn: linkedin.com/in/poojasharma | GitHub: github.com/poojasharma
+Location: Hyderabad, Telangana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Junior Business Analyst with 8 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Wipro and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: PowerBI, Excel, Business Analysis, Problem Solving, UML, Agile, Jira, Postman, Requirements Gathering, SQL
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Junior Business Analyst | Wipro, Hyderabad
+Jan 2020 – Present
+- Led the development and deployment of key features using PowerBI and Excel.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Business Analyst | Previous Company, Hyderabad
+Jun 2016 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Business Analysis.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2015 | CGPA: 8.0/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging PowerBI to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Business Analyst (2022)
+- Advanced Training in PowerBI

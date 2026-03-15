@@ -1,0 +1,71 @@
+SIDDHARTH JOSHI
+Backend Engineer (Java/Spring Boot)
+Email: siddharth.joshi@email.com | Phone: +91-9665432100
+LinkedIn: linkedin.com/in/siddharthjoshi | GitHub: github.com/siddharthjoshi
+Location: Noida, Uttar Pradesh, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Backend Software Engineer with 6 years of experience building robust,
+high-throughput microservices using Java and Spring Boot. Deep expertise in
+distributed systems, message queuing, and database design. Proven track record
+of designing systems processing 100K+ TPS (transactions per second) with
+sub-millisecond latency in fintech environments.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Languages        : Java 17, Python, SQL, Groovy
+Frameworks       : Spring Boot, Spring Cloud, Hibernate, Quarkus, gRPC
+Messaging        : Apache Kafka, RabbitMQ, ActiveMQ
+Databases        : MySQL, PostgreSQL, Oracle DB, DynamoDB, Elasticsearch
+Caching          : Redis, Hazelcast, Memcached
+Architecture     : Microservices, Event-Driven, CQRS, Domain-Driven Design
+DevOps           : Docker, Kubernetes, Maven, Gradle, Jenkins, AWS
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior Backend Engineer | Razorpay, Noida
+March 2020 – Present
+- Architected payment settlement microservice handling ₹500 Cr/day in
+  transactions with 99.999% uptime.
+- Designed event-driven architecture using Apache Kafka enabling real-time
+  payment notifications to 10M+ merchants.
+- Reduced database query time by 60% through query optimization, proper
+  indexing, and Redis caching layer.
+- Led technical design reviews for 5 major product features, mentoring a
+  team of 8 engineers.
+
+Backend Developer | Paytm Money, Noida
+August 2018 – February 2020
+- Built mutual fund order management system using Spring Boot processing
+  50,000+ orders daily.
+- Implemented idempotency patterns preventing duplicate transactions.
+- Integrated with 10+ third-party APIs (NSE, BSE, SEBI-regulated RTAs).
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech Computer Science
+AKTU Lucknow
+Graduated: 2018 | CGPA: 8.4/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Distributed Rate Limiter
+- Built token-bucket based distributed rate limiter using Redis Lua scripts
+  handling 1M+ requests/second across 50 microservice instances.
+
+Event Sourcing Framework
+- Developed internal Java library for event sourcing, adopted by 12 teams
+  across the organization.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Oracle Certified Professional Java SE 17 Developer (2022)
+- AWS Certified Developer – Associate (2021)
+- Spring Professional Certification – VMware (2020)

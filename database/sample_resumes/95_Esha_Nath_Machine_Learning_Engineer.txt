@@ -1,0 +1,54 @@
+ESHA NATH
+Lead Machine Learning Engineer
+Email: esha.nath58@email.com | Phone: +91-9113551378
+LinkedIn: linkedin.com/in/eshanath | GitHub: github.com/eshanath
+Location: Gurgaon, Haryana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead Machine Learning Engineer with 6 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Wipro and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: C++, Deep Learning, TensorFlow, Python, NLP, Agile, Computer Vision, PyTorch
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead Machine Learning Engineer | Wipro, Gurgaon
+Jan 2020 – Present
+- Led the development and deployment of key features using C++ and Deep Learning.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Machine Learning Engineer | Previous Company, Gurgaon
+Jun 2018 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using TensorFlow.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2017 | CGPA: 9.5/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging C++ to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Machine Learning Engineer (2022)
+- Advanced Training in C++

@@ -1,0 +1,70 @@
+ROHAN GUPTA
+QA / Test Automation Engineer
+Email: rohan.gupta@email.com | Phone: +91-9890345678
+LinkedIn: linkedin.com/in/rohangupta | GitHub: github.com/rohangupta
+Location: Bengaluru, Karnataka, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Quality Assurance Engineer with 4 years of experience in test automation,
+performance testing, and quality engineering. Expert in Selenium, Cypress,
+and API testing frameworks. Strong advocate for shift-left testing practices
+and building quality into the development process. Reduced regression testing
+time by 80% through intelligent automation and parallel test execution.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Test Automation  : Selenium WebDriver, Cypress, Playwright, Appium
+API Testing      : Postman, RestAssured, Newman
+Performance      : JMeter, Gatling, k6, Locust
+Languages        : Python, Java, JavaScript, Gherkin (BDD)
+CI/CD            : Jenkins, GitHub Actions, TestNG, Pytest
+Test Management  : TestRail, Zephyr, JIRA, Allure Reports
+Security Testing : OWASP ZAP, Burp Suite (basic)
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior QA Engineer | Ola Electric, Bengaluru
+July 2022 – Present
+- Built end-to-end test automation framework using Selenium + Python covering
+  900+ test cases across 3 platform (web, mobile, API).
+- Implemented performance testing suite using k6 validating system handles
+  50,000 concurrent users with P95 response < 1 second.
+- Set up parallel test execution using Selenium Grid reducing test runtime
+  from 4 hours to 30 minutes.
+- Introduced contract testing using Pact preventing 35+ API breaking changes
+  from reaching production.
+
+QA Analyst | Byju's, Bengaluru
+August 2020 – June 2022
+- Performed manual and automated testing for Byju's learning app (50M+ users).
+- Created BDD test scenarios using Cucumber and automated 300+ test cases.
+- Conducted accessibility testing ensuring WCAG 2.1 AA compliance.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech Computer Science
+VIT Vellore
+Graduated: 2020 | CGPA: 8.1/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+AI-Powered Test Case Generator
+- Built ML model that auto-generates test cases from user stories using
+  GPT-4, reducing test planning effort by 50%.
+
+Open Source Contribution – Playwright
+- Contributed 5 bug fixes and 2 new features to Microsoft Playwright
+  (1.2K GitHub contributions).
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- ISTQB Certified Tester – Foundation Level (2021)
+- Certified Selenium Professional – Simplilearn (2022)
+- ISTQB Advanced Level – Test Automation Engineer (2023)

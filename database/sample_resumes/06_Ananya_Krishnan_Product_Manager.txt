@@ -1,0 +1,70 @@
+ANANYA KRISHNAN
+Product Manager
+Email: ananya.k@email.com | Phone: +91-9812345678
+LinkedIn: linkedin.com/in/ananyakrishnan
+Location: Bengaluru, Karnataka, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Strategic Product Manager with 5 years of experience building consumer and
+B2B SaaS products from 0 to 1. Expert in product discovery, roadmap
+prioritization, and cross-functional team leadership. Launched 3 products
+that collectively generated ₹50 Cr in ARR. Data-driven decision maker
+with strong technical background and customer empathy.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Product          : PRD Writing, Roadmapping, OKRs, A/B Testing, Agile/Scrum
+Analytics        : Mixpanel, Amplitude, Google Analytics, SQL, Looker
+Design Collab    : Figma, Miro, Zeplin, UserTesting
+Communication    : Stakeholder Management, Executive Presentations, GTM Strategy
+Technical        : REST APIs, SQL, Python (basic), System Design (basics)
+Tools            : JIRA, Confluence, Notion, Productboard, Pendo
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Product Manager II | Swiggy, Bengaluru
+February 2022 – Present
+- Owned the Restaurant Discovery product with 20M+ monthly active users,
+  improving restaurant click-through rate by 22% via personalization.
+- Led launch of "Swiggy One" subscription product – onboarded 500K subscribers
+  in 6 months, contributing ₹30 Cr ARR.
+- Ran 40+ A/B experiments quarterly, maintaining rigorous experimentation
+  culture across the team.
+- Defined and tracked OKRs with cross-functional teams (Engineering, Design,
+  Data, Marketing, Legal).
+
+Associate Product Manager | OYO Rooms, Bengaluru
+August 2019 – January 2022
+- Built B2B hotel management dashboard reducing property onboarding time
+  from 5 days to 1 day.
+- Launched automated pricing engine increasing revenue per available room
+  (RevPAR) by 17%.
+- Coordinated with 10-member engineering team in a fast-paced startup environment.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+MBA – Product & Technology Management
+IIM Bangalore
+Graduated: 2019 | CGPA: 3.8/4.0
+
+B.Tech Computer Science
+NIT Trichy
+Graduated: 2017 | CGPA: 8.8/10
+
+-------------------------------------------------------------------
+ACHIEVEMENTS
+-------------------------------------------------------------------
+- Forbes 30 Under 30 – India Tech List 2024
+- Best New Product Award – Swiggy Annual Awards 2023
+- Speaker at ProductCon India 2022: "Metrics that Matter for Growth Products"
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Scrum Product Owner (CSPO) – Scrum Alliance (2020)
+- Product Analytics Certification – Mixpanel (2021)

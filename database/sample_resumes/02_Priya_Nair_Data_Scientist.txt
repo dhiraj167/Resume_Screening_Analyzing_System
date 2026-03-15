@@ -1,0 +1,78 @@
+PRIYA NAIR
+Data Scientist
+Email: priya.nair@email.com | Phone: +91-9845001122
+LinkedIn: linkedin.com/in/priyanair | GitHub: github.com/priyanair
+Location: Mumbai, Maharashtra, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Analytical Data Scientist with 3 years of experience in machine learning,
+NLP, and statistical modeling. Skilled in building end-to-end ML pipelines,
+deploying models to production, and communicating complex insights to
+non-technical stakeholders. Experienced with large datasets (10M+ records).
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Languages       : Python, R, SQL, Scala
+ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost
+NLP             : spaCy, NLTK, HuggingFace Transformers, BERT
+Data Tools      : Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Big Data        : Apache Spark, Hadoop, Hive
+Cloud           : GCP (BigQuery, AI Platform), AWS SageMaker
+Databases       : MySQL, PostgreSQL, MongoDB
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Data Scientist | Flipkart, Mumbai
+August 2022 – Present
+- Built a customer churn prediction model (XGBoost) achieving 91% accuracy,
+  saving ₹2.5 Cr annually in customer retention costs.
+- Developed a product recommendation engine using collaborative filtering
+  that improved click-through rate by 28%.
+- Created NLP pipeline to classify customer support tickets, reducing manual
+  triage time by 60%.
+- Built interactive dashboards using Plotly Dash for C-suite stakeholders.
+
+Junior Data Analyst | Mu Sigma, Bengaluru
+June 2021 – July 2022
+- Performed exploratory data analysis on retail sales datasets.
+- Automated weekly reporting using Python scripts, saving 10 hours/week.
+- Built logistic regression models for credit risk assessment.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+M.Sc. Data Science
+IIT Bombay, Mumbai
+Graduated: 2021 | CGPA: 9.1/10
+
+B.Sc. Statistics
+University of Mumbai
+Graduated: 2019 | CGPA: 8.6/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Sentiment Analysis on Twitter Data
+- Trained BERT model on 500K tweets to classify sentiment (Positive/Negative
+  /Neutral) with 89% F1 score.
+- Deployed as Flask API on GCP with auto-scaling.
+
+House Price Prediction (Kaggle)
+- Developed ensemble model (Random Forest + Gradient Boosting) achieving
+  Top 5% on Kaggle leaderboard (RMSE: 0.118).
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Google Professional Data Engineer (2023)
+- DeepLearning.AI TensorFlow Developer Certificate (2022)
+- IBM Data Science Professional Certificate (2021)
+
+-------------------------------------------------------------------
+PUBLICATIONS
+-------------------------------------------------------------------
+- "Transformer-based Resume Parsing for HR Automation", IJCAI Workshop 2023

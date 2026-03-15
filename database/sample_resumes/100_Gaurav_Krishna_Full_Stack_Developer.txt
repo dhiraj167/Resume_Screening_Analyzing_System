@@ -1,0 +1,54 @@
+GAURAV KRISHNA
+Senior Full Stack Developer
+Email: gaurav.krishna942@email.com | Phone: +91-9668713090
+LinkedIn: linkedin.com/in/gauravkrishna | GitHub: github.com/gauravkrishna
+Location: Noida, Uttar Pradesh, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Senior Full Stack Developer with 5 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at TechCorp and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Node.js, Jira, Django, Agile, AWS, Problem Solving, Express, React, Python, JavaScript
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior Full Stack Developer | TechCorp, Noida
+Jan 2020 – Present
+- Led the development and deployment of key features using Node.js and Jira.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Full Stack Developer | Previous Company, Noida
+Jun 2019 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Django.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2018 | CGPA: 8.7/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Node.js to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Full Stack Developer (2022)
+- Advanced Training in Node.js

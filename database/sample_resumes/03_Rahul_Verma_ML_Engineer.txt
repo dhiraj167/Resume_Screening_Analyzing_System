@@ -1,0 +1,74 @@
+RAHUL VERMA
+Machine Learning Engineer
+Email: rahul.verma@email.com | Phone: +91-9701234567
+LinkedIn: linkedin.com/in/rahulverma | GitHub: github.com/rahulverma
+Location: Hyderabad, Telangana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Machine Learning Engineer with 5 years of experience designing, building,
+and deploying ML models at scale. Expertise in computer vision, deep learning,
+and MLOps. Track record of delivering production ML systems that handle
+millions of inferences per day with low latency and high availability.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Languages        : Python, C++, CUDA, Bash
+ML/DL Frameworks : PyTorch, TensorFlow, OpenCV, ONNX, TensorRT
+MLOps            : MLflow, DVC, Weights & Biases, Kubeflow, Airflow
+Computer Vision  : Object Detection (YOLO, Faster R-CNN), Image Segmentation
+NLP              : Transformers, LangChain, OpenAI API, RAG
+Cloud & DevOps   : Azure ML, AWS SageMaker, Docker, Kubernetes
+Databases        : PostgreSQL, Cassandra, Pinecone (Vector DB)
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior ML Engineer | Microsoft IDCIT, Hyderabad
+March 2022 – Present
+- Led development of an industrial defect detection system using YOLOv8,
+  achieving 97.4% precision in real-time on edge devices.
+- Built an LLM-powered document Q&A system using LangChain + GPT-4 for
+  enterprise knowledge management.
+- Reduced model inference latency by 3x using TensorRT quantization and
+  ONNX optimization.
+- Mentored 3 junior ML engineers and led weekly ML reading groups.
+
+ML Engineer | Wipro AI Labs, Hyderabad
+January 2020 – February 2022
+- Developed fraud detection models using Gradient Boosting achieving
+  $4M in detected fraud annually.
+- Built face recognition pipeline for attendance management with 99.2%
+  accuracy on 10K employee dataset.
+- Set up MLflow experiment tracking and model registry for the team.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+M.Tech Artificial Intelligence
+IIT Hyderabad
+Graduated: 2019 | CGPA: 9.3/10
+
+B.Tech Computer Science
+JNTU Hyderabad
+Graduated: 2017 | CGPA: 8.4/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Real-Time Pose Estimation System
+- Fine-tuned MediaPipe Pose model for sports performance analytics.
+- Achieved 30 FPS inference on edge devices using ONNX Runtime.
+
+Multi-Modal Search Engine
+- Built semantic search combining text and image embeddings using CLIP.
+- Indexed 5M product images with sub-100ms query latency using Pinecone.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- AWS Certified Machine Learning – Specialty (2022)
+- NVIDIA Deep Learning Institute – Computer Vision (2021)
+- Microsoft Certified: Azure AI Engineer Associate (2023)

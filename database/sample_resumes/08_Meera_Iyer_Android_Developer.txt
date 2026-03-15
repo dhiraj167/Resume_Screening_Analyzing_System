@@ -1,0 +1,70 @@
+MEERA IYER
+Android Developer
+Email: meera.iyer@email.com | Phone: +91-9988123456
+LinkedIn: linkedin.com/in/meeraiyer | GitHub: github.com/meeraiyer
+Location: Bengaluru, Karnataka, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Passionate Android Developer with 4 years of experience building high-
+performance, user-centric mobile applications. Expert in Kotlin, Jetpack
+Compose, and Android Architecture Components. Published 5 apps on Google
+Play Store with a combined 2M+ downloads. Strong focus on smooth animations,
+accessibility, and clean MVVM architecture.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Languages        : Kotlin, Java, Python
+Android          : Jetpack Compose, MVVM, Room DB, Retrofit, Hilt (DI),
+                   WorkManager, Navigation Component, CameraX, Paging 3
+Testing          : JUnit, Espresso, Mockito, UI Automator
+Backend/APIs     : REST APIs, Firebase (Auth, Firestore, FCM, Crashlytics)
+Tools            : Android Studio, Git, Gradle, Fastlane, ProGuard
+Design           : Material Design 3, Figma (collaboration)
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Android Developer | Meesho, Bengaluru
+September 2021 – Present
+- Migrated entire app UI (50+ screens) from XML to Jetpack Compose, reducing
+  UI-related crash rate by 40%.
+- Implemented offline-first architecture using Room DB + WorkManager enabling
+  seamless shopping experience in low-connectivity regions.
+- Optimized app startup time by 35% using lazy initialization and R8 code
+  shrinking.
+- Built push notification system using Firebase FCM reaching 5M+ users daily.
+
+Junior Android Developer | Juspay Technologies, Bengaluru
+July 2020 – August 2021
+- Developed payment SDK used by 50+ enterprise clients including Swiggy,
+  Amazon India, and Myntra.
+- Implemented custom payment UI components and transaction flow animations.
+- Fixed 200+ crash reports improving app stability from 99.1% to 99.7%.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.E. Computer Science
+BMS College of Engineering, Bengaluru
+Graduated: 2020 | CGPA: 8.6/10
+
+-------------------------------------------------------------------
+PROJECTS (Published Apps)
+-------------------------------------------------------------------
+FinPlan – Personal Finance App (100K+ downloads)
+- MVVM + Jetpack Compose app with budget tracking, expense categorization,
+  and financial goal setting with animated charts.
+
+StudyMate – Exam Prep App (500K+ downloads)
+- Offline-capable quiz app with spaced repetition algorithm.
+- Integrated Google AdMob and Play Billing for premium features.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Associate Android Developer – Google (2021)
+- Jetpack Compose for Android Developers – Udacity (2022)
+- Kotlin Coroutines & Flow – JetBrains Academy (2021)

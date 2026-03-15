@@ -1,0 +1,76 @@
+SNEHA REDDY
+UI/UX Designer & Frontend Developer
+Email: sneha.reddy@email.com | Phone: +91-9551234567
+LinkedIn: linkedin.com/in/snehareddy | Portfolio: snehareddy.design
+Location: Chennai, Tamil Nadu, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Creative UI/UX Designer and Frontend Developer with 4 years of experience
+crafting intuitive, accessible, and visually stunning digital experiences.
+Skilled in both design (Figma, Adobe XD) and implementation (React, Tailwind).
+Passionate about user research, design systems, and bridging the gap between
+design and engineering teams.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Design Tools    : Figma, Adobe XD, Illustrator, Photoshop, Zeplin, InVision
+Frontend        : React.js, HTML5, CSS3, Tailwind CSS, SASS, JavaScript
+Prototyping     : Framer, Principle, Lottie Animations
+User Research   : Usability Testing, A/B Testing, Heatmaps (Hotjar), Personas
+Accessibility   : WCAG 2.1, ARIA, Screen Reader Testing
+Collaboration   : JIRA, Notion, Confluence, Figma Dev Mode
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior UI/UX Designer | Zoho Corporation, Chennai
+May 2022 – Present
+- Led redesign of Zoho CRM mobile app, increasing daily active users by 35%
+  and reducing churn by 18% post-launch.
+- Built and maintained a company-wide design system (100+ components) used
+  across 15 product teams.
+- Conducted 50+ user interviews and usability tests to inform design decisions.
+- Collaborated closely with engineering teams to ensure pixel-perfect
+  implementation.
+
+UI/UX Designer | Freshworks, Chennai
+June 2020 – April 2022
+- Designed onboarding flows for Freshdesk that reduced time-to-first-value
+  from 7 days to 2 days.
+- Created responsive email templates and in-app notification designs.
+- Performed competitive UX analysis for 10+ SaaS products.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Des. Visual Communication
+National Institute of Design, Ahmedabad
+Graduated: 2020 | CGPA: 8.9/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+HealthTrack – Mobile Health App (Figma + React Native)
+- Designed end-to-end UX for a personal health tracking app including
+  onboarding, dashboard, and data visualization screens.
+- Conducted 20-user usability study with 4.7/5 usability score.
+
+EduLearn – E-Learning Platform Redesign
+- Redesigned a legacy e-learning platform using atomic design principles.
+- Prototyped 60+ screens in Figma with interactive animations.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Google UX Design Professional Certificate (2022)
+- Nielsen Norman Group UX Certification (2023)
+- Meta Frontend Developer Certificate (2021)
+
+-------------------------------------------------------------------
+ACHIEVEMENTS
+-------------------------------------------------------------------
+- Speaker at UXIndia 2023: "Designing for Accessibility in Global Apps"
+- Red Dot Design Award Nominee 2022 – HealthTrack App

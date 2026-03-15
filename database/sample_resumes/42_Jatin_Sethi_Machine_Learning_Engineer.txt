@@ -1,0 +1,54 @@
+JATIN SETHI
+Lead Machine Learning Engineer
+Email: jatin.sethi74@email.com | Phone: +91-9207528239
+LinkedIn: linkedin.com/in/jatinsethi | GitHub: github.com/jatinsethi
+Location: Noida, Uttar Pradesh, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead Machine Learning Engineer with 4 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at HCL and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: TensorFlow, Computer Vision, C++, NLP, Deep Learning, PyTorch, Python, Git
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead Machine Learning Engineer | HCL, Noida
+Jan 2020 – Present
+- Led the development and deployment of key features using TensorFlow and Computer Vision.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Machine Learning Engineer | Previous Company, Noida
+Jun 2020 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using C++.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2019 | CGPA: 8.2/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging TensorFlow to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Machine Learning Engineer (2022)
+- Advanced Training in TensorFlow

@@ -1,0 +1,54 @@
+ARJUN SETHI
+Lead Cybersecurity Analyst
+Email: arjun.sethi412@email.com | Phone: +91-9650296539
+LinkedIn: linkedin.com/in/arjunsethi | GitHub: github.com/arjunsethi
+Location: Kolkata, West Bengal, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead Cybersecurity Analyst with 7 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at IBM and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Penetration Testing, SIEM, Python, Security, Firewalls, Git, Linux
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead Cybersecurity Analyst | IBM, Kolkata
+Jan 2020 – Present
+- Led the development and deployment of key features using Penetration Testing and SIEM.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Cybersecurity Analyst | Previous Company, Kolkata
+Jun 2017 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Python.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2016 | CGPA: 8.7/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Penetration Testing to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Cybersecurity Analyst (2022)
+- Advanced Training in Penetration Testing

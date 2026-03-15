@@ -1,0 +1,54 @@
+DIVYA PANDEY
+Lead Backend Developer
+Email: divya.pandey96@email.com | Phone: +91-9152420114
+LinkedIn: linkedin.com/in/divyapandey | GitHub: github.com/divyapandey
+Location: Gurgaon, Haryana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead Backend Developer with 2 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at TCS and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Node.js, SQL, Django, PostgreSQL, Java, Jira, MongoDB, Python, Go
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead Backend Developer | TCS, Gurgaon
+Jan 2022 – Present
+- Led the development and deployment of key features using Node.js and SQL.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Backend Developer | Previous Company, Gurgaon
+Jun 2022 - Dec 2021
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Django.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2021 | CGPA: 9.6/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Node.js to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Backend Developer (2022)
+- Advanced Training in Node.js

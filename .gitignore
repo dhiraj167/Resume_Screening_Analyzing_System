@@ -1,0 +1,12 @@
+myenv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3
+.env
+media/
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+ml_models/__pycache__/

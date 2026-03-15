@@ -1,0 +1,54 @@
+POOJA PANDEY
+Senior Data Scientist
+Email: pooja.pandey678@email.com | Phone: +91-9657892688
+LinkedIn: linkedin.com/in/poojapandey | GitHub: github.com/poojapandey
+Location: Hyderabad, Telangana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Senior Data Scientist with 6 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Innovatech and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: SQL, PyTorch, Machine Learning, Pandas, Postman
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior Data Scientist | Innovatech, Hyderabad
+Jan 2020 – Present
+- Led the development and deployment of key features using SQL and PyTorch.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Data Scientist | Previous Company, Hyderabad
+Jun 2018 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Machine Learning.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2017 | CGPA: 8.7/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging SQL to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Data Scientist (2022)
+- Advanced Training in SQL

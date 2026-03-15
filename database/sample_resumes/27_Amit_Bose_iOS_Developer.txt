@@ -1,0 +1,54 @@
+AMIT BOSE
+Lead iOS Developer
+Email: amit.bose225@email.com | Phone: +91-9478006545
+LinkedIn: linkedin.com/in/amitbose | GitHub: github.com/amitbose
+Location: Gurgaon, Haryana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead iOS Developer with 9 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Capgemini and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: CoreData, SwiftUI, Objective-C, iOS, Postman, Problem Solving
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead iOS Developer | Capgemini, Gurgaon
+Jan 2020 – Present
+- Led the development and deployment of key features using CoreData and SwiftUI.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+iOS Developer | Previous Company, Gurgaon
+Jun 2015 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Objective-C.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2014 | CGPA: 7.9/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging CoreData to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in iOS Developer (2022)
+- Advanced Training in CoreData

@@ -1,0 +1,54 @@
+RAVI JAIN
+UI/UX Designer
+Email: ravi.jain742@email.com | Phone: +91-9508523034
+LinkedIn: linkedin.com/in/ravijain | GitHub: github.com/ravijain
+Location: Chennai, Tamil Nadu, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled UI/UX Designer with 1 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Tech Mahindra and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Postman, Problem Solving, Agile, Adobe XD, HTML/CSS, User Research, Figma, Sketch, Prototyping
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+UI/UX Designer | Tech Mahindra, Chennai
+Jan 2023 – Present
+- Led the development and deployment of key features using Postman and Problem Solving.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+UI/UX Designer | Previous Company, Chennai
+Jun 2023 - Dec 2022
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Agile.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2022 | CGPA: 8.9/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Postman to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in UI/UX Designer (2022)
+- Advanced Training in Postman

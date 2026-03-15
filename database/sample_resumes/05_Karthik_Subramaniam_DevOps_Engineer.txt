@@ -1,0 +1,73 @@
+KARTHIK SUBRAMANIAM
+DevOps / Cloud Engineer
+Email: karthik.sub@email.com | Phone: +91-9600123456
+LinkedIn: linkedin.com/in/karthiksub | GitHub: github.com/karthiksub
+Location: Pune, Maharashtra, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Experienced DevOps Engineer with 6 years specializing in cloud infrastructure,
+CI/CD pipeline automation, and site reliability engineering. Expert in AWS,
+Kubernetes, Terraform, and infrastructure-as-code. Reduced deployment time
+by 70% and infrastructure costs by 35% in previous roles through automation
+and optimization initiatives.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Cloud Platforms  : AWS (EC2, EKS, RDS, Lambda, S3, CloudFormation), GCP, Azure
+Container & Orch : Docker, Kubernetes (EKS, GKE), Helm, Istio
+IaC              : Terraform, Ansible, Pulumi, AWS CloudFormation
+CI/CD            : Jenkins, GitHub Actions, GitLab CI, ArgoCD, CircleCI
+Monitoring       : Prometheus, Grafana, ELK Stack, Datadog, PagerDuty
+Scripting        : Python, Bash, PowerShell
+Networking       : VPC, Load Balancers, Route53, Nginx, SSL/TLS
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Senior DevOps Engineer | Persistent Systems, Pune
+January 2021 – Present
+- Architected multi-region AWS infrastructure supporting 10M+ monthly active
+  users with 99.99% uptime SLA.
+- Built GitOps-based deployment pipeline using ArgoCD reducing release cycle
+  from 2 weeks to daily deploys.
+- Implemented Kubernetes auto-scaling policies reducing infrastructure cost
+  by 35% while maintaining performance.
+- Set up centralized logging and monitoring with ELK Stack and Prometheus/
+  Grafana with automated alerting.
+
+DevOps Engineer | Tech Mahindra, Pune
+June 2018 – December 2020
+- Migrated on-premise applications to AWS, reducing infrastructure costs by 50%.
+- Built Jenkins CI/CD pipelines for 20+ microservices with automated testing
+  and Docker containerization.
+- Implemented Terraform for infrastructure provisioning across 3 environments
+  (dev, staging, production).
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.E. Information Technology
+University of Pune
+Graduated: 2018 | CGPA: 8.2/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Zero-Downtime Kubernetes Migration
+- Led migration of monolithic application to Kubernetes microservices with
+  zero downtime using blue-green deployment strategy.
+
+Cost Optimization Dashboard
+- Built real-time AWS cost monitoring tool using Python + CloudWatch,
+  identifying $12K/month in savings opportunities.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- AWS Certified DevOps Engineer – Professional (2022)
+- Certified Kubernetes Administrator – CKA (2021)
+- HashiCorp Certified: Terraform Associate (2021)
+- AWS Certified Solutions Architect – Professional (2023)

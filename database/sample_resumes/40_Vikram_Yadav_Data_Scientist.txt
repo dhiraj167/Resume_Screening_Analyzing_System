@@ -1,0 +1,54 @@
+VIKRAM YADAV
+Junior Data Scientist
+Email: vikram.yadav51@email.com | Phone: +91-9558625587
+LinkedIn: linkedin.com/in/vikramyadav | GitHub: github.com/vikramyadav
+Location: Gurgaon, Haryana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Junior Data Scientist with 3 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Google and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Python, Scikit-Learn, Git, TensorFlow, Data Analysis, Agile, SQL, PyTorch
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Junior Data Scientist | Google, Gurgaon
+Jan 2021 – Present
+- Led the development and deployment of key features using Python and Scikit-Learn.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Data Scientist | Previous Company, Gurgaon
+Jun 2021 - Dec 2020
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Git.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2020 | CGPA: 8.1/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Python to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Data Scientist (2022)
+- Advanced Training in Python

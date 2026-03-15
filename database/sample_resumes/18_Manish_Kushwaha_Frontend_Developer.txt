@@ -1,0 +1,54 @@
+Manish Kushwaha
+Junior Frontend Developer
+Email: manishkushwaha7247@gmail.com | Phone: +91-9992120271
+LinkedIn: linkedin.com/in/rahulojha | GitHub: github.com/rahulojha
+Location: Remote
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Junior Frontend Developer with 3 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Tech Mahindra and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Jira, TypeScript, React, Git, TailwindCSS, Angular, CSS, Problem Solving, Vue, HTML
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Junior Frontend Developer | Tech Mahindra, Remote
+Jan 2021 – Present
+- Led the development and deployment of key features using Jira and TypeScript.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Frontend Developer | Previous Company, Remote
+Jun 2021 - Dec 2020
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using React.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2020 | CGPA: 9.7/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Jira to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Frontend Developer (2022)
+- Advanced Training in Jira

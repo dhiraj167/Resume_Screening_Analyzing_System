@@ -1,0 +1,54 @@
+ISHA IYER
+Lead QA Automation Engineer
+Email: isha.iyer724@email.com | Phone: +91-9187048358
+LinkedIn: linkedin.com/in/ishaiyer | GitHub: github.com/ishaiyer
+Location: Pune, Maharashtra, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead QA Automation Engineer with 10 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Startup Inc and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Java, Jira, Agile, Python, JIRA, Cypress, Test Automation, Git, Selenium, Appium
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead QA Automation Engineer | Startup Inc, Pune
+Jan 2020 – Present
+- Led the development and deployment of key features using Java and Jira.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+QA Automation Engineer | Previous Company, Pune
+Jun 2014 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Agile.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2013 | CGPA: 9.5/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Java to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in QA Automation Engineer (2022)
+- Advanced Training in Java

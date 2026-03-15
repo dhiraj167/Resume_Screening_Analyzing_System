@@ -1,0 +1,54 @@
+SUNITA YADAV
+Junior DevOps Engineer
+Email: sunita.yadav103@email.com | Phone: +91-9136174970
+LinkedIn: linkedin.com/in/sunitayadav | GitHub: github.com/sunitayadav
+Location: Hyderabad, Telangana, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Junior DevOps Engineer with 11 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Amazon and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Kubernetes, Terraform, Git, Ansible, Agile, Jira, AWS
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Junior DevOps Engineer | Amazon, Hyderabad
+Jan 2020 – Present
+- Led the development and deployment of key features using Kubernetes and Terraform.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+DevOps Engineer | Previous Company, Hyderabad
+Jun 2013 - Dec 2019
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Git.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2012 | CGPA: 7.0/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Kubernetes to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in DevOps Engineer (2022)
+- Advanced Training in Kubernetes

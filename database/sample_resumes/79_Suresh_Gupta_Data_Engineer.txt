@@ -1,0 +1,54 @@
+SURESH GUPTA
+Lead Data Engineer
+Email: suresh.gupta725@email.com | Phone: +91-9944035894
+LinkedIn: linkedin.com/in/sureshgupta | GitHub: github.com/sureshgupta
+Location: Pune, Maharashtra, India
+
+-------------------------------------------------------------------
+SUMMARY
+-------------------------------------------------------------------
+Motivated and skilled Lead Data Engineer with 3 years of experience in the industry.
+Passionate about solving complex problems and delivering high-quality results.
+Proven track record of success at Wipro and in collaborative team environments.
+Always eager to learn new technologies and improve existing skills.
+
+-------------------------------------------------------------------
+SKILLS
+-------------------------------------------------------------------
+Core Competencies: Airflow, ETL, Hadoop, Apache Spark, Snowflake, Postman, Python
+Soft Skills: Communication, Teamwork, Time Management, Critical Thinking
+
+-------------------------------------------------------------------
+WORK EXPERIENCE
+-------------------------------------------------------------------
+Lead Data Engineer | Wipro, Pune
+Jan 2021 – Present
+- Led the development and deployment of key features using Airflow and ETL.
+- Collaborated with cross-functional teams to define, design, and ship new capabilities.
+- Improved system efficiency and reduced performance bottlenecks by 20%.
+
+Data Engineer | Previous Company, Pune
+Jun 2021 - Dec 2020
+- Assisted in the design and implementation of core modules.
+- Handled day-to-day operations and maintenance using Hadoop.
+- Participated in daily stand-ups and agile planning sessions.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech / B.E. / Degree
+XYZ University, India
+Graduated: 2020 | CGPA: 8.3/10
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+Project Alpha
+- Developed a comprehensive system leveraging Airflow to solve specific business needs.
+- Ensured 99.9% uptime and robust scalability.
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- Certified Professional in Data Engineer (2022)
+- Advanced Training in Airflow
